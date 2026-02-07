@@ -30,7 +30,7 @@ The analysis dataset is modeled around domestic flight operations in Q1 2019. Th
 - **carriers_dim:** Airline/carrier details (carrier code, carrier name)
 - **costs_params:** Business assumptions (operating cost per mile, delay cost per minute, aircraft upfront cost, etc.)
 
-> Note: Exact table names may differ depending on the dataset version used. The logical model above reflects how the analysis was structured.
+
 
 
 
@@ -145,4 +145,5 @@ Throughout the analysis, several assumptions were required to keep evaluation co
 
 
 ---
+
 
