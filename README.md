@@ -1,4 +1,7 @@
 # Airline Data Challenge – Project Elevate (US Domestic Market Entry)
+### Project Elevate — Airline Market Entry Analytics & Profitability Modeling
+
+This project simulates a real-world business scenario where an airline evaluates entry into the U.S. domestic market using data-driven route analysis, demand forecasting, and financial modeling.
 
 ## Project Background
 A startup airline is planning to enter the **U.S. domestic market** by launching **five round-trip routes** between **medium and large airports**. The brand promise is punctuality: **On time, for you**.
@@ -145,5 +148,6 @@ Throughout the analysis, several assumptions were required to keep evaluation co
 
 
 ---
+
 
 
